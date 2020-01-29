@@ -1,4 +1,5 @@
 #TODO create a variable called my_gpa and store a your current gpa (you can make this up)
+my_gpa = "3.6"
 
 #TODO print out the following using my_gpa as the variable
 #			my gpa is ....
